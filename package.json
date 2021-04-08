@@ -1,0 +1,8 @@
+{
+  "name": "montyHall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daiidie/montyHall.js.git",
+  "author": "daiidie <delavegae46@gmail.com>",
+  "license": "MIT"
+}
